@@ -1,4 +1,4 @@
-/*
+﻿/*
   Serial port access for NTRIP client for POSIX.
   $Id$
   Copyright (C) 2008 by Dirk Stöcker <soft@dstoecker.de>
@@ -19,7 +19,7 @@
   or read http://www.gnu.org/licenses/gpl.txt
 */
 
-/* system includes */
+/* system includes test changes */
 #include <stdio.h>
 #include <string.h>
 
